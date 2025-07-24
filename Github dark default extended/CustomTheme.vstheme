@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Github dark default extended" GUID="{f5b76b40-7f8e-4085-9792-24dc2e76a3a4}" BaseGUID="{871684c8-42eb-467d-821c-01fdd85fe81b}">
+  <Theme Name="Github dark default extended (1)" GUID="{5a6548ca-6236-454b-8111-5ce3063a22f4}" BaseGUID="{871684c8-42eb-467d-821c-01fdd85fe81b}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Chevron">
         <Foreground Type="CT_RAW" Source="FF010409" />
@@ -5002,11 +5002,11 @@
       </Color>
       <Color Name="field name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFA657" />
+        <Foreground Type="CT_RAW" Source="FFF4CFC6" />
       </Color>
       <Color Name="constant name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFA657" />
+        <Foreground Type="CT_RAW" Source="FFF4CFC6" />
       </Color>
       <Color Name="xml doc comment - attribute name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5022,7 +5022,7 @@
       </Color>
       <Color Name="interface name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF529B49" />
+        <Foreground Type="CT_RAW" Source="FFFD8820" />
       </Color>
       <Color Name="struct name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5030,7 +5030,7 @@
       </Color>
       <Color Name="type parameter name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFA657" />
+        <Foreground Type="CT_RAW" Source="FFF4CFC6" />
       </Color>
       <Color Name="enum member name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5038,7 +5038,7 @@
       </Color>
       <Color Name="parameter name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFA657" />
+        <Foreground Type="CT_RAW" Source="FFF4CFC6" />
       </Color>
       <Color Name="label name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -6174,11 +6174,11 @@
       </Color>
       <Color Name="MarkerFormatDefinition/ScrollBarComment">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF46CA51" />
       </Color>
       <Color Name="MarkerFormatDefinition/FilteredScrollBarComment">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF1DE052" />
+        <Foreground Type="CT_RAW" Source="FF46CA51" />
       </Color>
       <Color Name="data.tools.diff.remove.line">
         <Background Type="CT_INVALID" Source="00000000" />
