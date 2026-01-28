@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Github dark default extended (1)" GUID="{5a6548ca-6236-454b-8111-5ce3063a22f4}" BaseGUID="{871684c8-42eb-467d-821c-01fdd85fe81b}">
+  <Theme Name="Github dark default extended (2)" GUID="{67f7acea-3ba4-4ea9-93a1-2f951dc472f2}" BaseGUID="{871684c8-42eb-467d-821c-01fdd85fe81b}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Chevron">
         <Foreground Type="CT_RAW" Source="FF010409" />
@@ -5018,7 +5018,7 @@
       </Color>
       <Color Name="enum name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFA657" />
+        <Foreground Type="CT_RAW" Source="FFEF6943" />
       </Color>
       <Color Name="interface name">
         <Background Type="CT_INVALID" Source="00000000" />
